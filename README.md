@@ -1,9 +1,15 @@
 ### Hi there 👋
 
+My name is Po and I'm currently on a 850hr Full Stack bootcamp. 
+
+I was actually a VB and VB.NET developer in Fin Tech 13 years ago but I decided to quit the rat race and become a certified language trainer to adults learning English as a second language. Now I'm hoping to combine the skills and knowledge I have gained in both fields for what comes next. I'm ready for a new challenge! :sweat_smile:
+
+
 <!--
 **pohengchan/pohengchan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
