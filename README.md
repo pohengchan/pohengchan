@@ -27,8 +27,8 @@ I was actually a VB and VB.NET developer in FinTech 13 years ago but I decided t
 
 ## STATS
 
-<img src= "https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green" alt= "github stats top languages"></img>
-<img src= "https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green" alt= "github stats"></img>
+<img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=pohengchan&theme=blue-green" alt= "github stats top languages"></img>
+<img src= "https://github-readme-stats.vercel.app/api?username=pohengchan&theme=blue-green" alt= "github stats"></img>
 
 <!--
 **pohengchan/pohengchan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
